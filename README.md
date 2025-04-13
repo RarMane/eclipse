@@ -50,8 +50,16 @@ solana --version
 ```
 
 **4. Switch RPC**
-```bash
+```HELIUS RPC
 solana config set --url https://eclipse.helius-rpc.com/
+```
+
+```HZ RPC
+solana config set --url https://bitz-000.eclipserpc.xyz/
+```
+
+```OFFICIAL RPC
+solana config set --url https://mainnetbeta-rpc.eclipse.xyz/
 ```
 
 ---
